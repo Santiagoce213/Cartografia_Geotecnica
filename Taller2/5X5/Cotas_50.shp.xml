@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="es"><Esri><CreaDate>20220927</CreaDate><CreaTime>20535600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Contour" Date="20220927" Time="205403">Contour Fill.tif "C:\Users\SANTIAGO CORREA\Desktop\Universidad\Cartografía Geo\Taller 2\DEM\5X5\Cotas_50.shp" 50 0 1 CONTOUR #</Process></lineage></DataProperties></Esri><contour_type>CONTOUR</contour_type></metadata>
