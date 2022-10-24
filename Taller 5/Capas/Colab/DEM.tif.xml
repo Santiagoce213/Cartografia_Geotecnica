@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<metadata xml:lang="es"><Esri><CreaDate>20221019</CreaDate><CreaTime>09023000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20221019" Time="090230">RasterCalculator ""Dem_rec_ampliado.tif" * "Fill.tif"" "C:\Users\SANTIAGO CORREA\Desktop\Universidad\Cartografía Geo\Taller 5\Capas\Colab\DEM.tif"</Process></lineage></DataProperties></Esri></metadata>
